@@ -33,52 +33,6 @@ class Researcher:
 
 <div align="center">
 
-### 🎯 Findings Overview
-
-<sub>Sanitized — no targets, no victim data, disclosed within program rules.</sub>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="140">
-
-### 🟠
-**Medium**
-`03`
-
-</td>
-<td align="center" width="140">
-
-### 🟡
-**Low**
-`03`
-
-</td>
-<td align="center" width="140">
-
-### ⚪
-**Info**
-`01`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-![IDOR](https://img.shields.io/badge/IDOR%20%2F%20BOLA-da3633?style=flat-square)
-![AccessControl](https://img.shields.io/badge/Broken%20Access%20Control-fb8500?style=flat-square)
-![InfoDisclosure](https://img.shields.io/badge/Information%20Disclosure-1f6feb?style=flat-square)
-![Auth](https://img.shields.io/badge/Missing%20Auth%20%2F%20CSRF-8957e5?style=flat-square)
-![Recon](https://img.shields.io/badge/Infra%20Exposure-6e7681?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📊 Total Profit
 
 <table>
@@ -91,7 +45,7 @@ class Researcher:
 </td>
 <td align="center" width="200">
 
-# `25 000 ₽`
+# `0 ₽`
 💰 Earned
 
 </td>
@@ -119,14 +73,6 @@ class Researcher:
 
 <div align="center">
 
-```
-"The quieter you become, the more you are able to hear."
-```
-
-<br>
-
-🇷🇺 **Made in Russia**
-
-<sub>🛡️ All research conducted within authorized bug bounty program scopes.</sub>
+<img src="assets/ru-flag.gif" width="200" alt="RU" />
 
 </div>
