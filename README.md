@@ -1,16 +1,118 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sqlqwero/sqlqwero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=sqlqwero+%2F%2F+security+researcher;Bug+Bounty+%7C+Web+%26+API+Hacking;Finding+bugs+for+a+living" alt="typing" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Focus](https://img.shields.io/badge/Focus-Bug%20Bounty-1f6feb?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Scope](https://img.shields.io/badge/Scope-Web%20%2F%20API-8957e5?style=for-the-badge&logo=owasp&logoColor=white)
+![Platforms](https://img.shields.io/badge/Platforms-Standoff%20365%20%C2%B7%20BI.ZONE-fb8500?style=for-the-badge&logo=target&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### `whoami`
+
+</div>
+
+```python
+class Researcher:
+    alias      = "sqlqwero"
+    role       = "Independent Security Researcher"
+    specialty  = ["IDOR / BOLA", "Access Control", "Info Disclosure", "Recon"]
+    platforms  = ["Standoff 365", "BI.ZONE Bug Bounty"]
+    tools      = ["Burp Suite", "ffuf", "nuclei", "custom scripts"]
+    motto      = "no auth? no problem."
+```
+
+---
+
+<div align="center">
+
+### 🎯 Research Portfolio
+
+Writeups of my bug bounty findings — sanitized, no victim data, disclosed within program rules.
+
+</div>
+
+| # | Target | Vulnerability | Severity | Platform |
+|:---:|:---|:---|:---:|:---:|
+| [`001`](../../../bug-bounty-001-rowi-information-disclosure) | ROWI | Information Disclosure | 🟡 Low | Standoff 365 |
+| [`002`](../../../bug-bounty-002-rowi-bnpl-information-disclosure) | ROWI BNPL | Information Disclosure | 🟡 Low | Standoff 365 |
+| [`003`](../../../bug-bounty-003-rowi-bnpl-api-broken-access-control) | ROWI BNPL API | Broken Access Control / BOLA | 🟠 Medium | Standoff 365 |
+| [`004`](../../../bug-bounty-004-beget-unauthenticated-csat-rating) | BeGet | Unauthenticated CSAT Rating | 🟠 Medium | BI.ZONE |
+| [`005`](../../../bug-bounty-005-beget-unauthenticated-docker-registry) | BeGet | Docker Registry Exposure | ⚪ Info | BI.ZONE |
+| [`006`](../../../bug-bounty-006-vkplay-unauthenticated-purchase-history) | VK Play | Purchase History Disclosure | 🟡 Low | Standoff 365 |
+| [`007`](../../../bug-bounty-007-vkplay-unauthenticated-idor-pii) | VK Play | Unauthenticated IDOR / Mass PII | 🟠 Medium | Standoff 365 |
+
+---
+
+<div align="center">
+
+### 📊 Total Profit
+
+<table>
+<tr>
+<td align="center">
+
+### `07`
+📝 Reports Submitted
+
+</td>
+<td align="center">
+
+### `05`
+✅ Accepted
+
+</td>
+<td align="center">
+
+### `25 000 ₽`
+💰 Total Bounty
+
+</td>
+<td align="center">
+
+### `02`
+🔄 In Progress
+
+</td>
+</tr>
+</table>
+
+<sub>⚙️ Обновляй цифры выше вручную по мере новых отчётов и выплат</sub>
+
+<br>
+
+![Reports](https://img.shields.io/badge/Reports-7-1f6feb?style=flat-square)
+![Accepted](https://img.shields.io/badge/Accepted-5-2ea043?style=flat-square)
+![Bounty](https://img.shields.io/badge/Bounty-25%20000%20%E2%82%BD-ffd33d?style=flat-square)
+![Critical_Finds](https://img.shields.io/badge/Highest-Medium-fb8500?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Arsenal
+
+![Burp](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat-square&logo=apache&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>🛡️ All research conducted within authorized bug bounty program scopes. Reports are sanitized and disclosed per program rules.</sub>
+
+</div>
