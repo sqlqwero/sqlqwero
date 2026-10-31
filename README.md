@@ -25,7 +25,6 @@ class Researcher:
     specialty  = ["IDOR / BOLA", "Access Control", "Info Disclosure", "Recon"]
     platforms  = ["Standoff 365", "BI.ZONE Bug Bounty"]
     tools      = ["Burp Suite", "ffuf", "nuclei", "custom scripts"]
-    motto      = "no auth? no problem."
 ```
 
 ---
@@ -59,38 +58,17 @@ Writeups of my bug bounty findings — sanitized, no victim data, disclosed with
 <td align="center">
 
 ### `07`
-📝 Reports Submitted
+📝 Reports
 
 </td>
 <td align="center">
 
-### `05`
-✅ Accepted
-
-</td>
-<td align="center">
-
-### `25 000 ₽`
-💰 Total Bounty
-
-</td>
-<td align="center">
-
-### `02`
-🔄 In Progress
+### `0`
+💰 Earned
 
 </td>
 </tr>
 </table>
-
-<sub>⚙️ Обновляй цифры выше вручную по мере новых отчётов и выплат</sub>
-
-<br>
-
-![Reports](https://img.shields.io/badge/Reports-7-1f6feb?style=flat-square)
-![Accepted](https://img.shields.io/badge/Accepted-5-2ea043?style=flat-square)
-![Bounty](https://img.shields.io/badge/Bounty-25%20000%20%E2%82%BD-ffd33d?style=flat-square)
-![Critical_Finds](https://img.shields.io/badge/Highest-Medium-fb8500?style=flat-square)
 
 </div>
 
