@@ -39,13 +39,13 @@ class Researcher:
 <tr>
 <td align="center" width="200">
 
-# `07`
+# `08`
 📝 Reports
 
 </td>
 <td align="center" width="200">
 
-# `0 ₽`
+# `$622`
 💰 Earned
 
 </td>
